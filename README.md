@@ -15,5 +15,5 @@ The project is divided into 3 folders:
     - [losses.py](source/losses.py): contains the losses and metrics used to train and evaluate the model.
     - [project.py](source/project.py): is the main file of the source code. Contains the training loop, evaluation and prediction subroutines, model compilation, etc.
     - [callbacks.py](source/callbacks.py): contains the callbacks of the project. This is the main form of altering the training loop. Here should lie classes for logging, scheduling the learning rate, changing parameteres mid-training, etc.
-- **notebooks**: here lies the experimental notebooks. Here you can find [test.ipynb](notebooks/test.ipynb), a notebook with the basic testing of the project on the MNIST dataset
+- **notebooks**: here lies the experimental notebooks. Here you can find [test.ipynb](notebooks/test.ipynb), a notebook with the basic testing of the project on the MNIST dataset. This dataset can be found [here](https://www.kaggle.com/datasets/oddrationale/mnist-in-csv).
  
