@@ -1,0 +1,8 @@
+#ignore notebook checkpoints
+.ipynb_checkpoints/
+
+#ignore pycache
+__pycache__/
+
+#ignore vscode metadata
+.vscode/
